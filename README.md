@@ -1,2 +1,2 @@
-# CSES-ProblemSet
-CSES Problem Set 🇫🇮
+# CSES - Problem Set Solution
+Solution for CSES Problem Set 🇫🇮
