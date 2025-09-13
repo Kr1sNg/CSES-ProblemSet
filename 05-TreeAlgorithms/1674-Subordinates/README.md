@@ -31,3 +31,9 @@ Output:
 		(1)   	-> boss
 	(2)		(3)	-> 1	1
 	(4)		(5)	-> 2	3	-> 1 1 2 3
+
+1 - Build the company hierarchy (adjacency list).
+
+2 - Run a DFS (depth-first search) from the general director (employee 1).
+
+3 - For each node, the total number of subordinates = sum of all subordinates of its children + number of direct children.
