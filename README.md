@@ -1,4 +1,4 @@
-# [CSES - Problem Set Solution](https://cses.fi/user/343981)
+# [CSES - Problem Set Solution](https://cses.fi/problemset/user/343981)
 Solution for CSES Problem Set 🇫🇮
 
 ## Introduction - Code Submission Evaluation System
