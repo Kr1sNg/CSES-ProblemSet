@@ -8,26 +8,26 @@ The goal of the project is to create a comprehensive high quality problem set fo
 
 ## List of chapters
 
-| Chapter                 | No of probs|
-|:------------------------|:--------------|
+| Chapter                 | No of problems|
+|:------------------------|:-------------:|
 | [00 - Introductory Problems](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/00-IntroductoryProblems)   |     3/24     |
 | [01 - Sorting and Searching](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/01-SortingAndSearching)   |     2/35     |
-| Dynamic Programming     |     23     |
-| Graph Algorithms        |     36     |
-| Range Queries           |     25     |
+| [02 - Dynamic Programming](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/01-SortingAndSearching)     |     23     |
+| [03 - Graph Algorithms](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/03-GraphAlgorithms)        |     36     |
+| [04 - Range Queries](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/04-RangeQueries)           |     25     |
 | [05 - Tree Algorithms](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/05-TreeAlgorithms)         |     2/16     |
 | [06 - Mathematics](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/06-Mathematics)             |     1/37     |
-| String Algorithms       |     21     |
-| Geometry                |     16     |
-| Advanced Techniques     |     25     |
-| Sliding Window Problems |     11     |
-| Interactive Problems    |     6      |
+| [07 - String Algorithms](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/07-StringAlgorithms)       |     21     |
+| [08 - Geometry](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/08-Geometry)                |     16     |
+| [09 - AdvancedTechniques](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/09-AdvancedTechniques)     |     25     |
+| [10 - Sliding Window Problems](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/10-SlidingWindowProblems) |     11     |
+| [11 - Interactive Problems](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/11-InteractiveProblems)    |     6      |
 | [12 - Bitwise Operations](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/12-BitwiseOperations)      |      1/11     |
-| Construction Problems   |      8      |
-| Advanced Graph Problems |     28     |
-| Counting Problems       |     18     |
-| Additional Problems I   |     30     |
-| Additional Problems II  |     30     |
+| [13 - Construction Problems](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/13-ConstructionProblems)   |      8      |
+| [14 - Advanced Graph Problems](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/14-AdvancedGraphProblems) |     28     |
+| [15 - Counting Problems](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/15-CountingProblems)       |     18     |
+| [16 - Additional Problems I](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/16-AdditionalProblemsI)   |     30     |
+| [17 - Additional Problems II](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/17-AdditionalProblemsII)  |     30     |
 | **Total**               |  **9/400**  |
 
 ## Languages
