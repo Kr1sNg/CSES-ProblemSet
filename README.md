@@ -10,7 +10,7 @@ The goal of the project is to create a comprehensive high quality problem set fo
 
 | Chapter                 | No of problems|
 |:------------------------|:-------------:|
-| [00 - Introductory Problems](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/00-IntroductoryProblems)   |     3/24     |
+| [00 - Introductory Problems](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/00-IntroductoryProblems)   |     4/24     |
 | [01 - Sorting and Searching](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/01-SortingAndSearching)   |     2/35     |
 | [02 - Dynamic Programming](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/01-SortingAndSearching)     |     23     |
 | [03 - Graph Algorithms](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/03-GraphAlgorithms)        |     36     |
@@ -28,7 +28,7 @@ The goal of the project is to create a comprehensive high quality problem set fo
 | [15 - Counting Problems](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/15-CountingProblems)       |     18     |
 | [16 - Additional Problems I](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/16-AdditionalProblemsI)   |     30     |
 | [17 - Additional Problems II](https://github.com/Kr1sNg/CSES-ProblemSet/tree/main/17-AdditionalProblemsII)  |     30     |
-| **Total**               |  **9/400**  |
+| **Total**               |  **10/400**  |
 
 ## Languages
 You can solve problems in several languages, including C++, Java, and Python. More information about available languages is [here](https://cses.fi/howto/).

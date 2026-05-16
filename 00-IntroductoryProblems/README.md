@@ -5,7 +5,7 @@
 | Weird Algorithm | ✔️ |
 | Missing Number | ✔️ |
 | Repetitions | ✔️ |
-| Increasing Array | - |
+| Increasing Array | ✔️ |
 | Permutations | - |
 | Number Spiral | - |
 | Two Knights | - |
