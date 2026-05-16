@@ -20,4 +20,5 @@ int main(void)
   }
 
   std::cout << moves << std::endl;
+  return 0;
 }
